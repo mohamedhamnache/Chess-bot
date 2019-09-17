@@ -1,0 +1,442 @@
+# depslib dependency file v1.0
+1486860703 source:c:\users\pc\desktop\mes traveaux\chessmat\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"Board.h"
+	"initialisation.c"
+	"affichage.c"
+	"deplacement.c"
+	"estimation.c"
+	"MinMax.c"
+
+1486823868 c:\users\pc\desktop\mes traveaux\chessmat\board.h
+
+1486859093 c:\users\pc\desktop\mes traveaux\chessmat\initialisation.c
+	"Board.h"
+
+1486823868 c:\users\pc\desktop\mes traveaux\chessmat\affichage.c
+	"Board.h"
+
+1486856143 c:\users\pc\desktop\mes traveaux\chessmat\deplacement.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Board.h"
+	"regle_de_deplacement.c"
+	"Menacer.c"
+
+1486823868 c:\users\pc\desktop\mes traveaux\chessmat\regle_de_deplacement.c
+
+1486828378 c:\users\pc\desktop\mes traveaux\chessmat\menacer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Board.h"
+
+1486828444 c:\users\pc\desktop\mes traveaux\chessmat\estimation.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Board.h"
+	"evaluation_des_pieces.h"
+
+1486853977 c:\users\pc\desktop\mes traveaux\chessmat\evaluation_des_pieces.h
+
+1486858965 c:\users\pc\desktop\mes traveaux\chessmat\minmax.c
+
+1486860703 source:c:\users\pc\desktop\prog echec\chessmat\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"Board.h"
+	"initialisation.c"
+	"affichage.c"
+	"deplacement.c"
+	"estimation.c"
+	"MinMax.c"
+
+1486823868 c:\users\pc\desktop\prog echec\chessmat\board.h
+
+1487015309 c:\users\pc\desktop\prog echec\chessmat\initialisation.c
+	"Board.h"
+
+1486823868 c:\users\pc\desktop\prog echec\chessmat\affichage.c
+	"Board.h"
+
+1486996873 c:\users\pc\desktop\prog echec\chessmat\deplacement.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Board.h"
+	"regle_de_deplacement.c"
+	"Menacer.c"
+
+1486823868 c:\users\pc\desktop\prog echec\chessmat\regle_de_deplacement.c
+
+1486828378 c:\users\pc\desktop\prog echec\chessmat\menacer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Board.h"
+
+1487015128 c:\users\pc\desktop\prog echec\chessmat\estimation.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Board.h"
+	"evaluation_des_pieces.h"
+
+1486853977 c:\users\pc\desktop\prog echec\chessmat\evaluation_des_pieces.h
+
+1486997141 c:\users\pc\desktop\prog echec\chessmat\minmax.c
+
+1487029835 source:c:\users\mon pc\documents\anad\conférence\chessmat\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"Board.h"
+	"initialisation.c"
+	"affichage.c"
+	"deplacement.c"
+	"estimation.c"
+	"MinMax.c"
+
+1486823868 c:\users\mon pc\documents\anad\conférence\chessmat\board.h
+
+1487015309 c:\users\mon pc\documents\anad\conférence\chessmat\initialisation.c
+	"Board.h"
+
+1486823868 c:\users\mon pc\documents\anad\conférence\chessmat\affichage.c
+	"Board.h"
+
+1486996873 c:\users\mon pc\documents\anad\conférence\chessmat\deplacement.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Board.h"
+	"regle_de_deplacement.c"
+	"Menacer.c"
+
+1486823868 c:\users\mon pc\documents\anad\conférence\chessmat\regle_de_deplacement.c
+
+1486828378 c:\users\mon pc\documents\anad\conférence\chessmat\menacer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Board.h"
+
+1487015128 c:\users\mon pc\documents\anad\conférence\chessmat\estimation.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Board.h"
+	"evaluation_des_pieces.h"
+
+1486853977 c:\users\mon pc\documents\anad\conférence\chessmat\evaluation_des_pieces.h
+
+1487030898 c:\users\mon pc\documents\anad\conférence\chessmat\minmax.c
+
+1487029835 source:c:\users\pc\desktop\esimat atelier 14-02-2017\chessmat-sans arena\chessmat\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"Board.h"
+	"initialisation.c"
+	"affichage.c"
+	"deplacement.c"
+	"estimation.c"
+	"MinMax.c"
+
+1486823868 c:\users\pc\desktop\esimat atelier 14-02-2017\chessmat-sans arena\chessmat\board.h
+
+1487015309 c:\users\pc\desktop\esimat atelier 14-02-2017\chessmat-sans arena\chessmat\initialisation.c
+	"Board.h"
+
+1486823868 c:\users\pc\desktop\esimat atelier 14-02-2017\chessmat-sans arena\chessmat\affichage.c
+	"Board.h"
+
+1486996873 c:\users\pc\desktop\esimat atelier 14-02-2017\chessmat-sans arena\chessmat\deplacement.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Board.h"
+	"regle_de_deplacement.c"
+	"Menacer.c"
+
+1486823868 c:\users\pc\desktop\esimat atelier 14-02-2017\chessmat-sans arena\chessmat\regle_de_deplacement.c
+
+1486828378 c:\users\pc\desktop\esimat atelier 14-02-2017\chessmat-sans arena\chessmat\menacer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Board.h"
+
+1487015128 c:\users\pc\desktop\esimat atelier 14-02-2017\chessmat-sans arena\chessmat\estimation.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Board.h"
+	"evaluation_des_pieces.h"
+
+1487035377 c:\users\pc\desktop\esimat atelier 14-02-2017\chessmat-sans arena\chessmat\evaluation_des_pieces.h
+
+1487031537 c:\users\pc\desktop\esimat atelier 14-02-2017\chessmat-sans arena\chessmat\minmax.c
+
+1515778236 source:c:\users\smail lounes\documents\activitésextrascolaires\esimat atelier 14-02-2017\chessmat-sans arena\chessmat\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"Board.h"
+	"initialisation.c"
+	"affichage.c"
+	"deplacement.c"
+	"estimation.c"
+	"MinMax.c"
+
+1486823870 c:\users\smail lounes\documents\activitésextrascolaires\esimat atelier 14-02-2017\chessmat-sans arena\chessmat\board.h
+
+1487203582 c:\users\smail lounes\documents\activitésextrascolaires\esimat atelier 14-02-2017\chessmat-sans arena\chessmat\initialisation.c
+	"Board.h"
+
+1487203138 c:\users\smail lounes\documents\activitésextrascolaires\esimat atelier 14-02-2017\chessmat-sans arena\chessmat\affichage.c
+	"Board.h"
+
+1518308868 c:\users\smail lounes\documents\activitésextrascolaires\esimat atelier 14-02-2017\chessmat-sans arena\chessmat\deplacement.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Board.h"
+	"regle_de_deplacement.c"
+	"Menacer.c"
+
+1515789766 c:\users\smail lounes\documents\activitésextrascolaires\esimat atelier 14-02-2017\chessmat-sans arena\chessmat\regle_de_deplacement.c
+
+1487203138 c:\users\smail lounes\documents\activitésextrascolaires\esimat atelier 14-02-2017\chessmat-sans arena\chessmat\menacer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Board.h"
+
+1518169177 c:\users\smail lounes\documents\activitésextrascolaires\esimat atelier 14-02-2017\chessmat-sans arena\chessmat\estimation.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Board.h"
+	"evaluation_des_pieces.h"
+
+1487035378 c:\users\smail lounes\documents\activitésextrascolaires\esimat atelier 14-02-2017\chessmat-sans arena\chessmat\evaluation_des_pieces.h
+
+1518308838 c:\users\smail lounes\documents\activitésextrascolaires\esimat atelier 14-02-2017\chessmat-sans arena\chessmat\minmax.c
+	<stdio.h>
+	<stdlib.h>
+
+1518862477 source:c:\users\dualcomputer\desktop\esimat atelier 14-02-2017\chessmat-sans arena\chessmat\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"Board.h"
+	"initialisation.c"
+	"affichage.c"
+	"deplacement.c"
+	"estimation.c"
+	"MinMax.c"
+	<signal.h>
+
+1486823870 c:\users\dualcomputer\desktop\esimat atelier 14-02-2017\chessmat-sans arena\chessmat\board.h
+
+1487203582 c:\users\dualcomputer\desktop\esimat atelier 14-02-2017\chessmat-sans arena\chessmat\initialisation.c
+	"Board.h"
+
+1487203138 c:\users\dualcomputer\desktop\esimat atelier 14-02-2017\chessmat-sans arena\chessmat\affichage.c
+	"Board.h"
+
+1518308870 c:\users\dualcomputer\desktop\esimat atelier 14-02-2017\chessmat-sans arena\chessmat\deplacement.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Board.h"
+	"regle_de_deplacement.c"
+	"Menacer.c"
+
+1515789768 c:\users\dualcomputer\desktop\esimat atelier 14-02-2017\chessmat-sans arena\chessmat\regle_de_deplacement.c
+
+1487203138 c:\users\dualcomputer\desktop\esimat atelier 14-02-2017\chessmat-sans arena\chessmat\menacer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Board.h"
+
+1518169178 c:\users\dualcomputer\desktop\esimat atelier 14-02-2017\chessmat-sans arena\chessmat\estimation.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Board.h"
+	"evaluation_des_pieces.h"
+
+1487035378 c:\users\dualcomputer\desktop\esimat atelier 14-02-2017\chessmat-sans arena\chessmat\evaluation_des_pieces.h
+
+1518825330 c:\users\dualcomputer\desktop\esimat atelier 14-02-2017\chessmat-sans arena\chessmat\minmax.c
+	<stdio.h>
+	<stdlib.h>
+
+1518982125 source:c:\users\smail lounes\desktop\esimat atelier 14-02-2017sf;sklf\chessmat-sans arena\chessmat\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"Board.h"
+	"initialisation.c"
+	"affichage.c"
+	"deplacement.c"
+	"estimation.c"
+	"MinMax.c"
+	<signal.h>
+
+1486823870 c:\users\smail lounes\desktop\esimat atelier 14-02-2017sf;sklf\chessmat-sans arena\chessmat\board.h
+
+1487203582 c:\users\smail lounes\desktop\esimat atelier 14-02-2017sf;sklf\chessmat-sans arena\chessmat\initialisation.c
+	"Board.h"
+
+1487203138 c:\users\smail lounes\desktop\esimat atelier 14-02-2017sf;sklf\chessmat-sans arena\chessmat\affichage.c
+	"Board.h"
+
+1518308870 c:\users\smail lounes\desktop\esimat atelier 14-02-2017sf;sklf\chessmat-sans arena\chessmat\deplacement.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Board.h"
+	"regle_de_deplacement.c"
+	"Menacer.c"
+
+1515789768 c:\users\smail lounes\desktop\esimat atelier 14-02-2017sf;sklf\chessmat-sans arena\chessmat\regle_de_deplacement.c
+
+1487203138 c:\users\smail lounes\desktop\esimat atelier 14-02-2017sf;sklf\chessmat-sans arena\chessmat\menacer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Board.h"
+
+1518169178 c:\users\smail lounes\desktop\esimat atelier 14-02-2017sf;sklf\chessmat-sans arena\chessmat\estimation.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Board.h"
+	"evaluation_des_pieces.h"
+
+1487035378 c:\users\smail lounes\desktop\esimat atelier 14-02-2017sf;sklf\chessmat-sans arena\chessmat\evaluation_des_pieces.h
+
+1518988607 c:\users\smail lounes\desktop\esimat atelier 14-02-2017sf;sklf\chessmat-sans arena\chessmat\minmax.c
+	<omp.h>
+	<stdio.h>
+	<stdlib.h>
+
+1519111332 source:c:\users\smail lounes\desktop\esimat atelier 14-02-2017sf;sklf - copie\chessmat-sans arena\chessmat\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"Board.h"
+	"initialisation.c"
+	"affichage.c"
+	"deplacement.c"
+	"estimation.c"
+	"MinMax.c"
+	<signal.h>
+
+1486823870 c:\users\smail lounes\desktop\esimat atelier 14-02-2017sf;sklf - copie\chessmat-sans arena\chessmat\board.h
+
+1487203582 c:\users\smail lounes\desktop\esimat atelier 14-02-2017sf;sklf - copie\chessmat-sans arena\chessmat\initialisation.c
+	"Board.h"
+
+1487203138 c:\users\smail lounes\desktop\esimat atelier 14-02-2017sf;sklf - copie\chessmat-sans arena\chessmat\affichage.c
+	"Board.h"
+
+1518308870 c:\users\smail lounes\desktop\esimat atelier 14-02-2017sf;sklf - copie\chessmat-sans arena\chessmat\deplacement.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Board.h"
+	"regle_de_deplacement.c"
+	"Menacer.c"
+
+1515789768 c:\users\smail lounes\desktop\esimat atelier 14-02-2017sf;sklf - copie\chessmat-sans arena\chessmat\regle_de_deplacement.c
+
+1487203138 c:\users\smail lounes\desktop\esimat atelier 14-02-2017sf;sklf - copie\chessmat-sans arena\chessmat\menacer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Board.h"
+
+1518169178 c:\users\smail lounes\desktop\esimat atelier 14-02-2017sf;sklf - copie\chessmat-sans arena\chessmat\estimation.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Board.h"
+	"evaluation_des_pieces.h"
+
+1487035378 c:\users\smail lounes\desktop\esimat atelier 14-02-2017sf;sklf - copie\chessmat-sans arena\chessmat\evaluation_des_pieces.h
+
+1519111010 c:\users\smail lounes\desktop\esimat atelier 14-02-2017sf;sklf - copie\chessmat-sans arena\chessmat\minmax.c
+	<omp.h>
+	<stdio.h>
+	<stdlib.h>
+
+1519134763 source:c:\users\dualcomputer\desktop\chessmatf\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"Board.h"
+	"initialisation.c"
+	"affichage.c"
+	"deplacement.c"
+	"estimation.c"
+	"MinMax.c"
+	<omp.h>
+	<signal.h>
+
+1486823870 c:\users\dualcomputer\desktop\chessmatf\board.h
+
+1487203582 c:\users\dualcomputer\desktop\chessmatf\initialisation.c
+	"Board.h"
+
+1487203138 c:\users\dualcomputer\desktop\chessmatf\affichage.c
+	"Board.h"
+
+1518308870 c:\users\dualcomputer\desktop\chessmatf\deplacement.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Board.h"
+	"regle_de_deplacement.c"
+	"Menacer.c"
+
+1515789768 c:\users\dualcomputer\desktop\chessmatf\regle_de_deplacement.c
+
+1487203138 c:\users\dualcomputer\desktop\chessmatf\menacer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Board.h"
+
+1518169178 c:\users\dualcomputer\desktop\chessmatf\estimation.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"Board.h"
+	"evaluation_des_pieces.h"
+
+1487035378 c:\users\dualcomputer\desktop\chessmatf\evaluation_des_pieces.h
+
+1519129094 c:\users\dualcomputer\desktop\chessmatf\minmax.c
+	<omp.h>
+	<stdio.h>
+	<stdlib.h>
+
